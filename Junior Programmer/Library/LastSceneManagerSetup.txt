@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Lesson 1/Scenes/Prototype 1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
